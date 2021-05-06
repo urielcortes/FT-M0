@@ -1,0 +1,9 @@
+variables: En la variable podemos almacenar datos como numeros,nombres, etc.
+
+strings: Es usada para manipular cadenas de caracteres. En JavaScript todo texto encerrado entre comillas, dobles o simples, se interpreta como una cadena.
+
+Funciones: Esta finaliza la ejecución de la función y especifica un valor para ser devuelto a quien llama a la función.
+
+Declaracionle if: Le dice al programa que ejecute un bloque de código, si una condición es verdadera.
+
+Valores booleanos: Nos representa un valor de verdad es decir si es verdadero o falso.
